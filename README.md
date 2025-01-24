@@ -3,6 +3,8 @@
 
 Proyecto creado con la versión de laravel "^11.31"
 
+fdads nuevo commit en mi nueva rama
+
 Herramientas instaladas localmente:
 -------------------------------------------------
 > Composer version 2.7.4
