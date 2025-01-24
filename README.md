@@ -31,3 +31,5 @@ Pasos para correr el proyecto
                     DB_PASSWORD=root
 
 5. En caso haya un error que no encuentre la base de datos "app_pedidos", crear el "schema" de nombre "app_pedidos" en el DBMS.
+6. Ejecutar "php artisan key:generate" para generar la clave de cifrado
+6. Ejecutar "php artisan serve" para correr la api
